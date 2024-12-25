@@ -37,6 +37,7 @@ export const PROJECTS = [
       description:
         "A modern personal portfolio website showcasing projects, skills. Designed with a clean UI and interactive animations to leave a lasting impression.",
       technologies: ["React", "Tailwind Css", "Framer Motions"],
+      liveDemo:"https://portfolio-umesh-s.netlify.app/"
     },
     {
       title: "Click here for more repositories",
