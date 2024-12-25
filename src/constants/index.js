@@ -19,14 +19,14 @@ export const PROJECTS = [
     },
     {
       title: "SUMMAREASE",
-      image: project2,
+      image: project3,
       description:
         "A dialogue summarization app providing concise summaries of lengthy conversations using NLP techniques.",
       technologies: ["ReactJS", "JavaScript", "NLP APIs"],
     },
     {
       title: "Responsive News Website",
-      image: project3,
+      image: project2,
       description:
         "A responsive website for browsing news articles with a focus on readability and mobile-friendly design.",
       technologies: ["HTML", "CSS", "JavaScript"],
