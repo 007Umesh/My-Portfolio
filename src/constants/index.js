@@ -49,7 +49,7 @@ export const PROJECTS = [
   ];
 
   export const CONTACT = {
-    address: "282 1ST MAIN, 7TH CROSS,KEREANGALA, KAMALANAGAR, BANGALORE-79 ",
+    address: "KEREANGALA, KAMALANAGAR, BANGALORE-79 ",
     phoneNo: "+91 8088174820",
     email: "umeshsgowda770@gmail.com",
   };
